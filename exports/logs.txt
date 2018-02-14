@@ -1,2 +1,3 @@
 2018-02-13 08:00:00 - Export triggered
 2018-02-13 14:00:00 - Calculation triggered
+2018-02-14 08:00:00 - Export triggered
