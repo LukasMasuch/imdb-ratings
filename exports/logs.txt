@@ -14,3 +14,4 @@
 2018-02-27 14:00:00 - Calculation triggered
 2018-02-28 14:00:00 - Calculation triggered
 2018-03-04 14:00:00 - Calculation triggered
+2018-03-06 14:00:00 - Calculation triggered
