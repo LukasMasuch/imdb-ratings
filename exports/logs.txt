@@ -130,3 +130,4 @@
 2018-08-01 08:00:00 - Export triggered
 2018-08-01 14:00:00 - Calculation triggered
 2018-08-02 14:00:00 - Calculation triggered
+2018-08-03 08:00:00 - Export triggered
