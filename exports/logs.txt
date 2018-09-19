@@ -165,3 +165,4 @@
 2018-09-13 08:00:00 - Export triggered
 2018-09-14 08:00:00 - Export triggered
 2018-09-19 08:00:00 - Export triggered
+2018-09-19 14:00:00 - Calculation triggered
