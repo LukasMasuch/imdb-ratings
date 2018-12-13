@@ -231,3 +231,4 @@
 2018-12-10 14:00:00 - Calculation triggered
 2018-12-12 08:00:00 - Export triggered
 2018-12-13 08:00:00 - Export triggered
+2018-12-13 14:00:00 - Calculation triggered
