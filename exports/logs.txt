@@ -290,3 +290,4 @@
 2019-02-13 14:00:00 - Calculation triggered
 2019-02-16 08:00:00 - Export triggered
 2019-02-17 08:00:00 - Export triggered
+2019-02-17 14:00:00 - Calculation triggered
