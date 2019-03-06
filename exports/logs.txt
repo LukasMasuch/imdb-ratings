@@ -303,3 +303,4 @@
 2019-03-03 14:00:00 - Calculation triggered
 2019-03-04 14:00:00 - Calculation triggered
 2019-03-05 14:00:00 - Calculation triggered
+2019-03-06 08:00:00 - Export triggered
