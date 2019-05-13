@@ -342,3 +342,4 @@
 2019-05-10 08:00:00 - Export triggered
 2019-05-10 14:00:00 - Calculation triggered
 2019-05-11 08:00:00 - Export triggered
+2019-05-13 08:00:00 - Export triggered
